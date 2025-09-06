@@ -13,5 +13,5 @@ operations.py → Utilities for performing operations like time shifting, scalin
 Installation
 
 You can install the package from TestPyPI using the following command:
-pip install --index-url https://test.pypi.org/simple/ signal-ict-premjoshi-92400133090
-kto-efzg-nib
+pip install -i https://test.pypi.org/simple/ signal-ICT-Virajsinh-124==0.1.0
+

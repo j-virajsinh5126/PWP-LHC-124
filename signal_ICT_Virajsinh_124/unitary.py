@@ -38,9 +38,4 @@ def ramp_signal(n):
     return signal
 
 
-# Example usage (only runs when script is executed directly)
-if __name__ == "__main__":
-    n = np.arange(-10, 11)  # Range from -10 to 10
-    print("Unit Step:", unit_step(n))
-    print("Unit Impulse:", unit_impulse(n))
-    print("Ramp:", ramp_signal(n))
+
